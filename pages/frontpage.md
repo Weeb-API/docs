@@ -13,9 +13,9 @@ Free to use public API without any need for authorization :)
 
 # List Categories ![#0ffa90](https://placehold.co/15x15/0ffa90/0ffa90.png)
 
-> - [Fun](https://aliaryantech.github.io/docs/fun)
-> - [Misc](https://aliaryantech.github.io/docs/misc)
-> - [Weeb](https://aliaryantech.github.io/docs/weeb)
+> - [Fun](https://weeb-api.github.io/docs/fun)
+> - [Misc](https://weeb-api.github.io/docs/misc)
+> - [Weeb](https://weeb-api.github.io/docs/weeb)
 
 # Errors ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
 
