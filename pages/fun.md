@@ -117,5 +117,5 @@ title: Fun
 
 > The response schema would be like this:
 
-![Buffer.gif](https://raw.githubusercontent.com/AliAryanTech/docs/main/assets/triggered.gif)
+![Buffer.gif](https://raw.githubusercontent.com/Weeb-API/docs/main/assets/triggered.gif)
 ---
