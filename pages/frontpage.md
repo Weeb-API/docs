@@ -13,9 +13,13 @@ Free to use public API without any need for authorization :)
 
 # List Categories ![#0ffa90](https://placehold.co/15x15/0ffa90/0ffa90.png)
 
-> - [Fun](https://weeb-api.github.io/docs/fun)
-> - [Misc](https://weeb-api.github.io/docs/misc)
-> - [Weeb](https://weeb-api.github.io/docs/weeb)
+<kbd> <br> [Fun][Fun_Link] <br> </kbd>
+<kbd> <br> [Misc][Misc_Link] <br> </kbd>
+<kbd> <br> [Title][Weeb_Link] <br> </kbd>
+
+[Fun_Link]: 'weeb-api.github.io/docs/fun'
+[Misc_Link]: 'weeb-api.github.io/docs/misc'
+[Weeb_Link]: 'weeb-api.github.io/docs/weeb'
 
 # Errors ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
 
