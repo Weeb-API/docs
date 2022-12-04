@@ -13,13 +13,17 @@ Free to use public API without any need for authorization :)
 
 # List Categories ![#0ffa90](https://placehold.co/15x15/0ffa90/0ffa90.png)
 
-<kbd> <br> [Fun][Fun_Link] <br> </kbd>
-<kbd> <br> [Misc][Misc_Link] <br> </kbd>
-<kbd> <br> [Title][Weeb_Link] <br> </kbd>
+[![Fun Icon]][Fun Link]
+[![Misc Icon]][Misc Link]
+[![Weeb Icon]][Weeb Link]
 
-[Fun_Link]: 'weeb-api.github.io/docs/fun'
-[Misc_Link]: 'weeb-api.github.io/docs/misc'
-[Weeb_Link]: 'weeb-api.github.io/docs/weeb'
+[Fun Link]: https://weeb-api.github.io/docs/fun
+[Misc Link]: https://weeb-api.github.io/docs/misc
+[Weeb Link]: https://weeb-api.github.io/docs/weeb
+
+[Fun Icon]: https://img.shields.io/badge/Fun-EF2D5E?style=for-the-badge&logoColor=white
+[Misc Icon]: https://img.shields.io/badge/Misc-ffe51c?style=for-the-badge&logoColor=white
+[Weeb Icon]: https://img.shields.io/badge/Weeb-681cff?style=for-the-badge&logoColor=white
 
 # Errors ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
 
