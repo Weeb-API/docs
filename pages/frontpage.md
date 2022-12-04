@@ -21,9 +21,9 @@ Free to use public API without any need for authorization :)
 [Misc Link]: https://weeb-api.github.io/docs/misc
 [Weeb Link]: https://weeb-api.github.io/docs/weeb
 
-[Fun Icon]: https://img.shields.io/badge/Fun-EF2D5E?style=for-the-badge&logoColor=black 
-[Misc Icon]: https://img.shields.io/badge/Misc-ffe51c?style=for-the-badge&logoColor=black
-[Weeb Icon]: https://img.shields.io/badge/Weeb-681cff?style=for-the-badge&logoColor=black
+[Fun Icon]: https://img.shields.io/badge/Creative-Fun_Category-EF2D5E?style=for-the-badge&logoColor=black
+[Misc Icon]: https://img.shields.io/badge/Tools-Misc_Category-ffe51c?style=for-the-badge&logoColor=black
+[Weeb Icon]: https://img.shields.io/badge/Anime-Weeb_Category-681cff?style=for-the-badge&logoColor=black
 
 # Errors ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
 
