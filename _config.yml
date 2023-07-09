@@ -1,0 +1,36 @@
+title: Weeb-API Documentation 
+description: Free to use public API without any need for authorization :)
+author: "AliAryanTech"
+
+theme: minima
+
+base_url: /docs
+
+markdown: kramdown
+
+social_links:
+    telegram: AliAryanTech 
+
+# Minima social links
+github_username: AliAryanTech
+twitter_username: AliAryanTech
+
+# Minima: show excerpts in the frontpage
+show_excerpts: false 
+
+minima:
+  date_format: "%Y-%m-%d"
+
+header_pages:
+  - pages/frontpage.md
+  - pages/carbon.md
+  - pages/entertainment.md
+  - pages/misc.md
+  - pages/weeb.md
+
+include:
+    - pages
+
+exclude: 
+    - LICENSE
+    - README.md
