@@ -307,9 +307,9 @@ If you're leaving, baby let me down slowly
 ```
 ---
 
-## /scraptg
+## /telegram
 ### HTTP Request
-`GET https://weeb-api.vercel.app/scraptg?username=anime_news`
+`GET https://weeb-api.vercel.app/telegram/anime_news`
 
 ### Query Parameters
 
@@ -322,102 +322,178 @@ If you're leaving, baby let me down slowly
 ```json
 [
    {
-      "image":"https://cdn4.telegram-cdn.org/file/Sbm_YLPSSMNScgbGHKpm_pjed5_19Qfcg84Jblexd3YXsNLNP4LVj2RrscUxC2oRtg0Ub0u9SCyBCBSKCv9ZD7M0lXqZvkzQ-_Tzpi0perNkmuN6AsVJ4KyQvFpl1POdBpqb4Tvk5rYC4o_kQNKijxrKn14cWjpD07O2vHdOqncT4FuchtbNtGvz_gZQVEAauJJARbSUWQVz1wBH_ZddGKB8mUBwf3TnoM0vFg9Zmimxl_MpY1QUKnUF7bvhIGa-6gNKyP8mFp1Ume0rodC7e5HGml1lGUrrs2D_Xt8VQ1H0RG9R7_vRp_ABxpbGER8O-Fuxrji1gaske_9FCSqBlg.jpg",
-      "url":"https://t.me/anime_news/7988",
-      "caption":"\"Hokkaido Gals Are Super Adorable!\" new key visual and PV. Broadcasting begins in January. (SILVER LINK. × BLADE)",
-      "views":"4.2K",
-      "time":"2023-07-03T15:44:18+00:00"
+      "id":8215,
+      "type":"image",
+      "caption":"\"Rekishi ni Nokoru Akujo ni Naru zo\" TV anime adaptation is scheduled for 2024.",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8215",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/qsjIfHK2RLWFvstRC0ufS0ybSpRQjOKu8HW11i0Jo4Wp6Oe36mVmsKqAOym3qdTBxMXXhdUxXhrM-LDh35VRZJ0XTCzRffblkr3LDmdpodZn1ouiiHnUAWUA-O9Fkq-RYCS7RGG66Kbkap4gAax8AoMmPNA9mI_iyLej5KMeFzlC2ijteGvQK0hJAwqGFud9RLlb6AvQSOR6BYm-hMUWnpwyY2IIVFCRaWW4UhvDGRiyyFH8NRGoKVdS9xQWPT3bWZ79u0aPcTR10J4W-E85cwYI3WPomFomX11sewd5opoW-E_QbgJ52C02FWZ6JQAZYKcnbT42xdVq0u4Hd9vW4Q.jpg"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/f0jIsUkkfxz-kijro3UMlBVTzWamqUESTDX6BuVd8nMx3EuYuHwF_RcrRdxEPKICgAbYDMfTgH5h8z8Jd4exraBI5_rkViu0-91DmlPvOMknY6hbbAX0ArGE1cBuMtxxwxYjAY_j7xcLCrehZmJieQpQKJr1KV7WZqkph5OX4fE09KXoKSUipb_YiYiHe59ccgNGcV2KFmhmbtRFwjge15SAweIzyDOJW0GSA9dS-0PLJcUUsi4Gn0XSEu_gDv3YDVqAOhbVQ-dbBqJkr27J5P_vW2x4ChIHeEKzdXjWy3c0gHCgmcdeA0f9VRJvSrmy7xi3mZE-GtlOAUWZavrqmQ.jpg",
-      "url":"https://t.me/anime_news/7989",
-      "caption":"SUICIDE SQUAD ISEKAI, an all-new original anime series collaboration with Warner Bros. Japan and WIT Studio.",
-      "views":"6.2K",
-      "time":"2023-07-03T18:08:22+00:00"
+      "id":8216,
+      "type":"text",
+      "caption":"Original TV anime \"Metallic Rouge\" PV. The anime begins broadcasting in January and is being produced in celebration of studio BONES' 25th Anniversary.\"Metallic Rouge\" new teaser PV.The anime begins broadcasting in January and is being produced in celebration of studio BONES' 25th Anniversary",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8216"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/Zx4n2-MkbKGRBpr8ouJgyVlD1fCQALMoc1naz-I5xDhmuXS3mukjeg4-FZiGFyCZn8UAzPnXp6wcukrXdVImUlJf8FR2Jqr064kwvXx9goXKkyCvsWdDE-HF2LFozgaG2y0SRg3EjnDLLbS_i2wKoWrlQrRg7pcvuMECLHBeFPmF9WrWwehOvpbBhzlhMLPQfpwS6SwacalDmFjmhO_9E3vg2VrhTSgWwM4XsCMYUKMekNmYl5D0NoB_F4nUpmAfyDgpVWR6ZezlnRY6M6h9-L4Dr_q9Cm7JwT9_fnQner4Tj9Kgh39uWETz8qGlOxCWCSB8NzZpo14-mrdFlOojVw.jpg",
-      "url":"https://t.me/anime_news/7990",
-      "caption":"\"The Rising of the Shield Hero\" Season 3 new key visual.\nBroadcasting begins in October. (Kinema citrus)",
-      "views":"3.8K",
-      "time":"2023-07-04T05:00:31+00:00"
+      "id":8217,
+      "type":"image",
+      "caption":"https://bit.ly/3gdI0U6\"Bye Bye, Earth\" anime adaptation new visual and PV. Broadcasting is scheduled for 2024.  (LIDENFILMS)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8217",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/T50itLEuG3XKGrJiUZKzLJ23WB7lVkZLiPJ5Ir0-gzqvxMqaj97nA5AfSeHNfoCByQK9SPQ5VtB2kiBC4w3ACJJEXbO2oZ2JCzbMOCMlK_G6juzKRdaJRfCyAGmUSW1uw2xa5GXGb96X4FTj73cy62KlPbE_ZbztUXBm9p76s2bo2nPNdERY9FcEbdXJ8T78XoncA5R9Qvl-HtuMsKwx1ZAnnS2DhGwVQD-pE5q9dcK9jqEO-Ll_tBCryO53B4efzoqNt0P3C1D3FPfd09aV-A_mIGnY4RUS3no0G-q5-MZC7ogZyvR_iWmdqaF0qjZFRDhECVl15Yc_uPRi5i65ow.jpg"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/RdpCHEjskVbmzFXSaYHwFY2JDb3bVxgUvRI6JzlZK7jWkgqLykMYM7ZAiz0erXeTACWKDaXiQqLwb4WPGWe_CxrrwpRJq4cZpqiEFXeMJyrgsT9BgVa1AmCOI6oBnXpRddsn8iJEfKa9h1vTOx5O4Ad8Yt7MAFPhpd3YR4Ru6s8HYBTTu4GnpbaEAtJOoGEDbQOm2vbiFRN0peE1y9I-z7nLNngd8wjn7ZcaPy8ZM-ivRTheqjVqRAMANqSIkxzj1sud4NhRVbiYlD-l4SRkiSno3eSaWu-ESnWR4uUcxnm-kdf_-DbjYS5bgEOlES64zhA4ymDWXPU0DNqVDkaB8Q.jpg",
-      "url":"https://t.me/anime_news/7995",
-      "caption":"\"Undead Murder Farce\" new visual. Broadcasting begins tomorrow, July 5. (Lapintrack)",
-      "views":"4.6K",
-      "time":"2023-07-04T09:25:04+00:00"
+      "id":8218,
+      "type":"text",
+      "caption":"\"Our Last Crusade or the Rise of a New World\" Season 2 new PV. Broadcasting begins in 2024 (studio palette × SILVER LINK)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8218"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/hyZsvmrBwJJrbBriP6_iTZrqDMWuZki3UqubH-sidW6PGllBUgvRrJZubiiENqoXTIaA_k6nAaUbdsMm5-7-efoUj3R66Q36AyOFGtV7vFPVvHRuCczgnJQ1EvwA0qrTn5tHZcccqQswgt1vpHsC0jkUzylipiv5etZQKqZwY16EJhyRB86GNVKwgWzDpz3Iu-UVksGKbxznUkgTXjfa2VdTnlAbejlW6iCnvL0p-_mc8wgrWXhbQRoW1K_DnxE-Iknn3dbMYP_qjCM4DzY4CMysrOfV2NlprDwK57xJk_1_KsrQp6EhYrZEizSKrFz1co0MvKreQlUGf9AsZYCzJQ.jpg",
-      "url":"https://t.me/anime_news/7996",
-      "caption":"\"A Sign of Affection\" TV anime adaptation announced for January 2024.",
-      "views":"4.1K",
-      "time":"2023-07-05T10:11:59+00:00"
+      "id":8219,
+      "type":"text",
+      "caption":"\"I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too\" TV anime new PV. Broadcasting begins on April 6.“I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too”new animation project confirmed",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8219"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/Knj5wDMHncISDNHSXFM3iyU4aIAan-hRO7HT0Fez2RF3BqQQwLfrvNVp4X-TeEoio7LiHA6GCxbwZLi44etB75mPRVZfB2c0W0U4Tmrh29oGsZ2ityKoqEQtbSnEqeewqsT2KOS1hNysRhYWHZE5k2D5yLyWJ_ZuchLMcbE-UOX8_dmGnmn8wFXEZ6HZYCg9QfgZrlerSc5bnZpZ5bn_29pUaLk8JcVYaaPrZqVBIZMuEHC-9-nTRTyyH6rL8YixPV71v5Ojls_WTO45hHw61BLipcZCEkdHKimlA3j4-BO9x3UXEXx9_6rSQJ0q0ecB5n9UdtgLkMb-qFQ_WXKyiA.jpg",
-      "url":"https://t.me/anime_news/7998",
-      "caption":"\"The Vexations of a Shut-In Vampire Princess\" TV anime news key visual and PV. Broadcasting begins in October. (project No.9)",
-      "views":"4.1K",
-      "time":"2023-07-06T05:57:25+00:00"
+      "id":8220,
+      "type":"image",
+      "caption":"\"Private Tutor to the Duke's Daughter\" anime adaptation announced.",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8220",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/irbhueQzz9gwI1XX86FVX5YDftpdf8u2odSI-5HezDDyE767hsUUGVpB853HLEHVNmpjIHizBo0rSnTLWfHGGugSFId5mS0elF9zG_tw4UPzOoFiPhacaSHNxpi16GAYn22-HdTqlkhpNyMSF6l8CtCsE4xQCx-03LTClLzZNAFVB7DItXOMCvd-9aymriTyjzUJrbwTzugL0_FIMCCQPQUM22tZBSmFIEdvKRURv8OrkBoXMA-n4pw7voftDgmu9FP6bthek87m-Qr6AZGnnt5IUX8y_dEbXLvUWeVrTgbeL_aGdEvt2v4B8cT2akdmeaKoi8Vghl96KGobfpQoTg.jpg"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/nzvRAgPP3SdetYbxDsuHqEqiHqW_1RGmkI5InsSt6IBeml37IFzLe6krzyh_PMwCnoFTSg1a3duSqXWoQlsx1QhMW2DGtk-vDOrZ6if6ctY0EhhI4ynaqmB_XtMvGQLCXU07cHu0o68oXNTqyE7avXdNihkzJh6lx6mCCMpM3k9J6Rrkzml2_9YqtOUkaiJA9qHKbrGvguxuDqf3O2joV_zxpS7xD3YUq2z46_Y11pC-6zqBl3GaPHWdDTsL7q0D8E98igKMSgUh6kxtavS-3_pdabKVNXPNKObNvO4IfudkfYfo236P4VMS2Xg_N7ZVyfdoiFnTx5FJXeHRHs924A.jpg",
-      "url":"https://t.me/anime_news/7999",
-      "caption":"\"Henjin no Salad Bowl\" (Salad Bowl of Eccentrics) TV anime adaptation announced.",
-      "views":"3.9K",
-      "time":"2023-07-06T09:08:01+00:00"
+      "id":8221,
+      "type":"image",
+      "caption":"\"7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!\" new visual and PV. Broadcasting begins in January. (Studio KAI × HORNETS)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8221",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/mSZo1Nxux-FyVrYnAxehgwxBvkwXOIUBQl_0EpB9gVNrFHaDKwfo8O1AVfwKXt3-oKE6YqX1s2bsDn3acEei43PfDKLRCwfIXC86vkZFLxZ4bT1XBjoUkMS01ww7ff3x9MO1AOF4TGtWwRkq5PWj-LGRZEyfuDu_kxtdL7SXcS5gy-HomPRIcp9GGMH6mVsfpx-Buc7nbSNzDFNbUJxhgxQ9VIudU0BY24KjugmtWgH4SNQtvYsrFcWCp7FuEjE8KH-cXqc3cUe2UJlQR-o237rySqVfsd7DQfmz66TsLWNOGN_g6wGMLWb0yy3DEI-MRCgW-OrfPi8Tt9oK1g_8Lw.jpg"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/Zx5VY8BtS5rXIYFdLCf9KOvDl0Fr0r6DqigZ-nUTzGuX-gbyZSVPvyDbL6Ibe2xO-QntYt3u2rdxMPNqRDW_3G7sUzYHiJNoB6-uqIc0PbpKjCJ-Km8H5qaVkGxKRTjmlTc_jH1LEtGM01gz2nrYnv8ttcyqYk_VUQDSKymgWJWXn35bn8zJiCOpNEdXkDrClUwfDbO3KvpOLERUF6cIi2geuaw61VWb7HwOBPW5y-10ST9P163fXHc7YNF6eve4CzYVFR9_ag0I2akZ-HOvYirUF7RXR65HtU4SgNV9Pz-hwwNaaDCjP0k6ZZeKOjUXu5B-rZXuf_xH_JT3n8_Jmw.jpg",
-      "url":"https://t.me/anime_news/8000",
-      "caption":"\"Mushoku Tensei: Jobless Reincarnation\" Season 2 will have 25 episodes total.\nCour 1: July–September 2023\nCour 2: April–June 2024",
-      "views":"3.8K",
-      "time":"2023-07-07T09:45:33+00:00"
+      "id":8222,
+      "type":"image",
+      "caption":"\"Chillin' in Another World with Level 2 Super Cheat Powers\" TV anime adaptation announced for 2024. (J.C.STAFF)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8222",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/TtEjpidqKLDlta295fqKIQl4Db-oJIUP2akeElla4AqszNmyv79_BQWv0Fvcoe_0GVc8Unb_yJXOyopiHFoeg8rWEUtdq4so81fg1U8_ihdwSE9JT4-ttxd0SmBEnavpBBQ8ybbCYijFCLdHAGIBMLBPZ8MxrwvKo5FaQ_vPjDg-7Ld5z3fUeYgA0aCLJpMtIL6yizcK-VDBDHqBzP7a6YoRNZRQryPp2cQAcS6HRi9SWsqEK-cdCL1WUt6FmWJ418La905pPD0YU09kB1sHx0lVD9iSMq5MSCOymFfWh4Sfl5cI1WGDwhLSoq_kZzDfYWw_KbsSOpmlaCceBpOKOA.jpg"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/f7u2eK-t0hAfK4WYCMomFKYq-ctVndRtHjcrKmrDRaSHrcKHJE-ZbSgEIa9DwPMspKYfb76yO4Dowt9G6u5DDt6nRuceiLM1HgtUZAnI-ujRo4DMKjlnH1MuqPNMKrf6bfwsKiDbrn2L9GA1Ekpe6MosDEb9ZUlACsgWePTV2aq73ymmmnYEq58lEE48aueTnXyRgSugHCbmlpQgteOhn71ggIdO2-7A7JdcRZ10TKikP3dvHzSrTYcz9hEbAhFExK7bhZPzAQcfGqJ7XPYzvs_j8Z4aDJ5X5lZYe_HJ2ilzc3LPtCyXLduqr_ZFgQUYCp5WvnNVwLJkRNNDyOMz0w.jpg",
-      "url":"https://t.me/anime_news/8001",
-      "caption":"\"365 Days to the Wedding\" TV anime adaptation confirmed.",
-      "views":"3.8K",
-      "time":"2023-07-07T09:46:04+00:00"
+      "id":8223,
+      "type":"text",
+      "caption":"\"The Unwanted Undead Adventurer\" new PV. Broadcasting begins in January. (CONNECT)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8223"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/jo-7XEek8ym3vYCAYu3JJ76W017j2wzFkpZQK6wKr_b-BvR_tTHR7m48u9oGXlOonGmvECiAHZw2uwHQxGR1KUeK-x8UmBse76tUOkaL3oXOF9UzjHr-PjZ8N1VHGgjJH9piy2k0Kw0SYAc_GHoUPcSiTZIASHs_NQXvYmO3Y4ntMPzwnbpM01JofyCW782U1egNJQRV0NSVLMQj_WlxKRw2PQ45rPxOKZ6Ttg6-pd-NrdqX80nvcFQ_nt0FkFhhDaEis5Jjx-5fcg8HKSGgS0QGhfC85jpD9gJTASC4WJclyo6TEke0ICKH-xMPg3_d8lgqvvwMCav_ZMpEZnsclQ.jpg",
-      "url":"https://t.me/anime_news/8002",
-      "caption":"\"The Apothecary Diaries\" new visual and PV. Broadcasting begins in October. (TOHO animation STUDIO × OLM)",
-      "views":"3.8K",
-      "time":"2023-07-07T14:37:48+00:00"
+      "id":8224,
+      "type":"text",
+      "caption":"\"The Dangers in My Heart\" Season 2 PV. Broadcasting begins in January. (Shin-Ei Animation)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8224"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/HsnTRNeBJpU0jqk4kPoIA85NXYF9yKMQYeMYJx9IVVt1wudBmUPaGJxOVia8pi_nJ518KziVw1aUE7UvwivEoGZNu1Vl2t-_rI-wlDkfI-n9xcf072bbGTEfZ4uwE0w_zHTp5U1EYDr28O-f0XA5sfttjZmkFIdG1T0vfgO54DErmOOTIUsyjrxpqej_ofug8gjiPFooJKte_p4tvbKCZpzaxGwmYJa6EE1OZ0BU0rop5aLhlT2Alqm1LMqTZeLnXM3xz_mZOBOOuK98ofVWziZPu1bCxVzioAZHdwZPMDy6ZghChglplxINcRHb4eHbx7N535haJwnI2XokubVSoA.jpg",
-      "url":"https://t.me/anime_news/8003",
-      "caption":"\"Our Rainy Protocol\" original TV anime announced for October. (Quad)",
-      "views":"3.3K",
-      "time":"2023-07-08T05:59:56+00:00"
+      "id":8225,
+      "type":"image",
+      "caption":"\"The Dangers in My Heart\" Season 2 PV. Broadcasting begins in January. (Shin-Ei Animation)\"The Dangers in My Heart\" spin-off \"Twi-Yaba\" anime adaptation confirmed.",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8225",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/aTKtr6GQABYCMoDSS9rBjVxwDb5AQ7oBZd5Afb91ringriTYQKVtsyYxVeD2teQi6Zr4iyJxYO0epf4vRK8weRkDB0tHIG92NK6n9orYYWKSlq_HOaOjGsoh5GrkPpzRQvT7-UBO9AUHgchzGL8BKIY2aRWpkiETuGUTJAF7WPd-RYLUDDXrSJHhg45UoUu4GSEPd41expuq52nJNw6OtQI2XpBlmjK-9MDmfWhruaiGArn5lMf6ssF2dRw21ZMV5U52ks2hi5Gguu-2Q8-qWQWxRH8UCNcGsGzIVwdVOEJ7VIPUbsymqUehGt77gk_P7XIWARI2gg__0jC3lj1QMg.jpg"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/mzv-iMW3epurVV_IeKz-G3NJ4p5RYHkx1T_bTpCrx1J5DEe9Jon2xwomKgxV0vOJBscpngHzeyyhTHhN6Au8s1sprCLqORjaXbtUKjywm407dPWjy-Fe6OAn5vvxpQyFfzvHTO1mavVLh9JKGe-TI39uKjfctjVt7Qsdd2xKWe_skk2dLQn5B8WdzSCajQVg-N2KWIjbyVvBWKjTcUMDKz3S_x_8jCVGw3hs003hSJbVLyjTRpPfErWubyQHgjj6ogqDZMxsUqIwkg6FrgD7zS0ctCoe5t7TbY3rFp98kSnVB3NuIjWUvuY-yHMWq7YJORPFL4j7qrpR0hk8iwtsew.jpg",
-      "url":"https://t.me/anime_news/8004",
-      "caption":"\"Laid-Back Camp\" Season 3 is scheduled for 2024.",
-      "views":"2.8K",
-      "time":"2023-07-09T10:56:24+00:00"
+      "id":8226,
+      "type":"text",
+      "caption":"\"A Sign of Affection\" TV anime 1st PV.Broadcasting begins in January. (Ajia-do)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8226"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/fPsIM97ied3yYLsJL3a7DlxAGwmprJvCPlMaT2fwIBUxYoLeXzKyP0jKwFPPFTjpAj4khUEFUO3UJmosdBnx3azC6fT3Q__m4gH_Eg0J8ByRczkv1Yuw_p7Qc9D67bYSqxUU3ZF3b7y3mFCNGiFqXDM-2EBSTX1bui69zFF_OPu2RbPlweT9Pqi8UmTwI1qd59XvSiMVKNy6Z-qbhRZFDhxew4Cr2qb7nEP4St8mRy82ijYPlu-hneTjBfSm32POiTkM3-ipLRmO46B7c4ZpZ58_NHYVuDFUNqc_ja0h05iaUPUzxxAIwGPD8g8yAPtA8pMpF41MX4xNlFTiesw7Bw.jpg",
-      "url":"https://t.me/anime_news/8006",
-      "caption":"\"Mysterious Disappearances\" begins broadcasting in 2024.",
-      "views":"1.7K",
-      "time":"2023-07-09T15:17:49+00:00"
+      "id":8227,
+      "type":"image",
+      "caption":"\"WIND BREAKER\" new visual and PV. Broadcasting begins in April. (CloverWorks)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8227",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/drW6Cvn9v2-UpvcXFnjLLglFxD6xvTjPhUPQ0i5Nwl5myE82qZ2KW3UP_PNIcMC1FnkR1OHp8buKYSeWXcUnznLXoiJ4_Lsnqb6edqWnV_dpwQ2iwS2hXLKg2cZMGXKzG3v7vktx4KAchY8GE4jLeQ9PEP4X4f9eODDCA0sodnGGAihq-6uzl7rssdh2R40thYOq-9PJjrVtx26gw6anilpyHx2OheJFjCC1P96EJTxLmFjqzqVTgV946Nnfw8MNFKhdGraDDbckKt78_fWRLrddnK9cbjsr8SRANaveQyhJXSsV6-FXvgUIYXmEZ-zjJgQjeY_-aqEmexjBjdreDg.jpg"
    },
    {
-      "image":"https://cdn4.telegram-cdn.org/file/d_ayo7G4QXs3QA8Zz7aUaCJNlZg-lH9-DiMWKR_ZYTJJ2AH2FOEeD3cNNGbPi8_GQkQAx0vh0NV7kzGwME8Z-SU4SnEdCc1AYbnVz9xR3s2ycDw9haHyw-FmSQQ9lJWNkF257b0GhLNr5YKBWYS1rhjxmAJYFU9TPCrXYRmUS0hzTOnmI_CcI1TbNgG_f3pnR1fXJBUfocB1sk8-1tSK3Kv-qK8A3aLT_4g1jsfCQn3R4vOxKqWvjQM83zjY0Mh_F0wpaZiP2HCWIzGsQUlotHgxl124bRSEag0ih99pOXPbYbKMCbHXy_IMxvsW0SLRda6Gj3VhDmL11CU8U8Y0OA.jpg",
-      "url":"https://t.me/anime_news/8007",
-      "caption":"\"The Fable\" TV anime adaptation announced.",
-      "views":"1.8K",
-      "time":"2023-07-09T15:19:04+00:00"
+      "id":8228,
+      "type":"image",
+      "caption":"\"Rascal Does Not Dream of a Knapsack Girl\" special visual and main trailer.Screening in Japan begins on December 1. (CloverWorks)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8228",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/jK1vhOE3etg322mnel5krnbvm4rxloxXl2RJYaJR1O9Ot0LWAUsGnasrXn0S_IJvs39tM_eQnrXW7AD4cwQcyaPlKQd_DO_MAON5_8OTbn7WpDjwjv6Ut78QG5AxoQ5fA_WWlGaIYHmT_FzUk6VX-_Q8mGDS5O_rn9DzJDvGi0bd-9zlZ_UPwIwK8Vuw6TuA1NPug6I0KV9nwyIfETLa_V9kYXRPZCqEqHnaftxYDJYuBWDljaXuWWlbWoXiLKSjBDfEIdhuvTuocoMikA2fz04jQihgo7P--JG46Sljv9fWJgFfIbHXLpHLHwJFcV_O3Qo7WCYl6o6nwYjIWRo5nQ.jpg"
+   },
+   {
+      "id":8229,
+      "type":"image",
+      "caption":"\"Yakuza Fiancé: Raise wa Tanin ga Ii\" anime adaptation announced.",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8229",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/P-sr3iMSHqtROMYya3-Qtb0xR5LP9CGa0MiTkuvfVPgffY1aMcXfiecOcbNuLt3C8mSAlshL06lZmNxPXl-cove2c0ClOzUEIpN309MgSPmDn8zf88-CeMYqWTIvdM0nj-v74r8JksI4JIISX4T4JbfFYQZ_NxMvH_c7iOvbQiLkkPbAIu5OIhd6pVHGtOARHn8hOG2Pz1ZhYWv9AgalpIiJbl1z6WwjzKkMvYabAjLO4Co68hsb_m7xnq38232jH2B79y5BKDdS_XqSqpZ5vQRrBB9WMLYJvx2zZh92yV2C0jsjCCb5AmUMlutunaPaHwBE9eGLqYbn49HTMnk1wQ.jpg"
+   },
+   {
+      "id":8230,
+      "type":"image",
+      "caption":"\"Laid-Back Camp\" Season 3 teaser PV. Broadcasting begins in 2024. (eightbit)\"Laid-Back Camp\" Season 3 begins in April. (eightbit)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8230",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/JeQqlqnnDdmyBIcTRYGDgXpLiJ_6TOq-JMybb9ofvmqW9BTSB4oXO5-9tphrfnHdq_oZvIRxtTYVqoyZ51EJTLzdp-PUO9abofFyrQjnokksa6HMCSBZvvBBzC4w9WTABqG598y9eoneSGWAYawDZvipWW_b-9ABibyEN97_km2igrx1zcr4yLBbWV_1oq87w7fEWj5VRrcpBgu1TkCDmfYliBoL99_tkYP_ByJjKaUzULkazehV-bGFIFCpaA4pAl1WBCUW9DD0w3VmqrMrhlY0P47I5M2bxSzIR_JUEMQrGgJSBC9xNyM5Ug9hhTbPfzvqjTypytLP4faCE2zqoA.jpg"
+   },
+   {
+      "id":8231,
+      "type":"image",
+      "caption":"\"Jellyfish Can't Swim in the Night\" original TV anime new visual and PV. Broadcasting is scheduled for 2024. (Doga Kobo)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8231",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/KuMDZTvr6BItV7VUHOw1t50LDIOM2e7SeXFxXpDptXhec01KQacT3BKIAdd4jp5Mx4ZV99kip3pYXRCJXrZIzDeD0bK4kzpQaPu0ixxeXxOpXaQ7fjYaUA6jV08pZ0HaNUgPF-DbAr6DBXHgtsTY1SlcuMYqAX8kTCJWCIunZ6sgvMC8Lj4KEUujRpieDW25CWSe5O3j4DQclbNqnkZU8izATLnPTIdBCV0CeEhEeK6WXkAzbIwXbOr-EATPqG7ayR1DNIGye4cgZi339QznwCMwrkO__-mVhbK9rddo7e-llze0uCVbFCZuotLFOK1YJ4l9NKrbbbQxZO-7O_Y1TA.jpg"
+   },
+   {
+      "id":8232,
+      "type":"image",
+      "caption":"\"The Foolish Angel Dances with the Devil\" new visual and PV. Broadcasting begins in January. (Children's Playground Entertainment)",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8232",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/Y2Fv_0ppNcy5M5qagrhyZJ8Q0slcON-7Tc8Ul0oc15Kz0XJA7VnetxfquuKonI_4RcsECwvReRqSQ7Bp2dpXzuNLNADnrV_IDivH_Qv4ij_V3Al4leAbgTuCV2qrty5rZB-e6BhUaeAsC51IE1vE6VOlyneb_QzrbOoqkV7pqTXlOK54gk-V982yMUpmN0iYgp3Ho5QMKQF_wzazG7hMh5S0bY1kWIJTOUk0OPjGUX5Xe1xQ7ja84ZSGYzmsWg3MDT5HHeVAOD06jA0890SGPpVqfogwRYd2LqQvp-vExR-_PmLbPzsG-TspZ9WVjCoB59kixtCR8DPSmFW9HSZA2w.jpg"
+   },
+   {
+      "id":8233,
+      "type":"image",
+      "caption":"\"Sentenced to Be a Hero\" anime adaptation announced.\"Sentenced to Be a Hero\" anime adaptation is scheduled for 2025.",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8233",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/kzCNY9BsZ0e2S2DnmdL0KWyPm_2XSvDHT_0YscLgyuWTTGyqlF-0q_usyDiiT9T1RU4nLhN2-fwXQAwXGN-LmxRDWb5bEc0f5iAdQHqjQpF3Jl_mwgVhggGV2fG7HCMLih3RtVUkCWquMTOdw1qWIuM2A0ZQiXlI3S90551_Kv1nD8KmeFf1phPqPLFd5usLNe8WeDAbq4TWLHTv6qvizrxTzEVxHNh7EbG1XM68raExfn1cE4GzsyF0KLjOnYlO0-bojlyBK1wKckkpj2Q4qwkVLsdTq4AJdpuODpZVA4arl9e4gEh1MTWDVZ6jfb4Tygu8Kag_pL-2kbPczDetlQ.jpg"
+   },
+   {
+      "id":8234,
+      "type":"image",
+      "caption":"\"BURN THE WITCH #0.8\" anime adaptation announced.\"BURN THE WITCH #0.8\" new visual and PV. The anime releases worldwide on December 29.",
+      "views":"5.1K",
+      "time":"2023-10-13T06:18:12+00:00",
+      "url":"https://t.me/anime_news/8234",
+      "mediaUrl":"https://cdn4.telegram-cdn.org/file/AmO7NW4M6ptChE_ToT0TuimmilBxW9jZvMotX3QOogcQYAIEgc94d3ZMRrPEee3EIJApND7lj7KG0H86Vi2ca5Y2L0QnQRMQU-Zeq9Q9kFOFF7Z3GmlNvV72yX1BgOP5Ojxud1jbQYzfSchtXvFQmBfLSK47Mg9YyFrjJ78UUqVhBiAM7LdWb5Hs-32G8syC7zRNQ9tOheOnKnV7jBm8gwSrA7FlsTwBjtJ6uht2obBgx_pSHrMe7zhwG1IC8rCKFKe8QYyyGvnF2D-FZMrSPMInLWiRtQ0-5agifRsMyZHPuNkUh31gIFmPOj4AQaJSiNGW9_ZtaQJHDdulp4WjoQ.jpg"
    }
 ]
 ```
