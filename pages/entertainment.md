@@ -74,3 +74,26 @@ title: Entertainment Endpoints
 }
 ```
 ---
+
+## /telesticker
+### HTTP Request
+`GET https://weeb-api.vercel.app/telesticker?url=https://t.me/addstickers/Capoo_Video2`
+
+### Query Parameters
+
+| Parameter | Required |   type   | Description | 
+|    ---    |    ---   |   ---    |     ---     |
+| url       | true     | `string` | telegram sticker pack url |
+
+> The response schema would be like this:
+
+```json
+{
+   "name":"Capoo_Video2",
+   "title":"咖波 視像② @Capoo_Stickers",
+   "is_animated":false,
+   "is_video":true,
+   "stickers":[...]
+}
+```
+---
