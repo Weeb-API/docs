@@ -275,6 +275,264 @@ If you're leaving, baby let me down slowly
 ```
 ---
 
+## /pinterest
+### HTTP Request
+`GET https://weeb-api.vercel.app/pinterest?query=Hinata`
+
+### Query Parameters
+
+| Parameter | Required |   type   | Description | 
+|    ---    |    ---   |   ---    |     ---     |
+| query     | true     | `string` | search query |
+
+> The response schema would be like this:
+
+```json
+[
+   {
+      "title":"Hinata icon by yaszvx",
+      "type":"image",
+      "pinner":{
+         "name":"Emily Aimee",
+         "username":"emilyyyyaimee",
+         "image":"https://i.pinimg.com/140x140_RS/31/3f/b8/313fb85859fb57629b23d7f852ff0979.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/a1/2a/77/a12a778daa03f8f4e156f8aff7473954.jpg"
+   },
+   {
+      "title":"🖤Hinata Hyuga🤍",
+      "type":"image",
+      "pinner":{
+         "name":"J'zer",
+         "username":"JAP897",
+         "image":"https://i.pinimg.com/140x140_RS/0d/81/1d/0d811d353f7e91dc2478776b7d035d6e.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/a3/35/e7/a335e79d1289177a5101d2ee0ccd16e7.jpg"
+   },
+   {
+      "title":"Naruto girls icons",
+      "type":"image",
+      "pinner":{
+         "name":"Daniela Barbolini",
+         "username":"danielabarbolin",
+         "image":"https://i.pinimg.com/140x140_RS/54/77/14/547714f3df53b2b08a58a6cbeaff6b0f.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/55/b2/02/55b2026f06e377f6aaee7271d5c509db.jpg"
+   },
+   {
+      "title":"",
+      "type":"image",
+      "pinner":{
+         "name":"Rafael Oliveira",
+         "username":"rafaeruparker",
+         "image":"https://i.pinimg.com/140x140_RS/09/5f/85/095f856a9a3348058104942d7f3041b1.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/10/4f/81/104f81fe9760caeaceef39fe2848cb5a.jpg"
+   },
+   {
+      "title":"Hinata hyuga By minusleto in devianart",
+      "type":"image",
+      "pinner":{
+         "name":"Masa Ota",
+         "username":"masa7755",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/b2/a3/5c/b2a35c5c27fea83c5bfdfe01c23cca1c.jpg"
+   },
+   {
+      "title":"Hinata hyuga",
+      "type":"image",
+      "pinner":{
+         "name":"Joshua Hall",
+         "username":"2007Subie",
+         "image":"https://i.pinimg.com/140x140_RS/4a/38/f9/4a38f94466f3958e6e311f88f5798caa.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/e8/96/4a/e8964af98d47b6185e53073b39aab50b.jpg"
+   },
+   {
+      "title":"「 hinata icon  」",
+      "type":"image",
+      "pinner":{
+         "name":"Noir Rose",
+         "username":"ReaperScythe15",
+         "image":"https://i.pinimg.com/140x140_RS/44/d9/a0/44d9a0a8912e85a9c095b13f07b3fb04.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/6f/7e/6c/6f7e6cc5f8348aa83429c1531df61e58.jpg"
+   },
+   {
+      "title":"",
+      "type":"image",
+      "pinner":{
+         "name":"Mayara Hellena Alves",
+         "username":"May_souza88",
+         "image":"https://i.pinimg.com/140x140_RS/dc/0f/ff/dc0ffff1780544a4b29bc7c3a646fadc.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/3b/57/b3/3b57b3ef59f3c37117db61b2c0a9ab38.jpg"
+   },
+   {
+      "title":"",
+      "type":"image",
+      "pinner":{
+         "name":"meryem",
+         "username":"meryemlachachi",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/9c/62/f1/9c62f147cc465c20dab48d825c34dae8.jpg"
+   },
+   {
+      "title":"𝑫𝒂𝒊𝒍𝒚 𝑾𝒂𝒊𝒇𝒖𝒔 on X",
+      "type":"image",
+      "pinner":{
+         "name":"Richard",
+         "username":"u2rml9515",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/ec/62/9e/ec629ee79581933a863a24d018b0cdc2.jpg"
+   },
+   {
+      "title":"Hinata icon by yaszvx",
+      "type":"image",
+      "pinner":{
+         "name":"jivotnoeeee",
+         "username":"jivotnoeeee",
+         "image":"https://i.pinimg.com/140x140_RS/b2/90/76/b290763b6642c127d6d11ec4e92a0752.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/96/ec/ef/96ecef8bd5d459f7e86c0abf08d7896e.jpg"
+   },
+   {
+      "title":"Twitter",
+      "type":"image",
+      "pinner":{
+         "name":"¿MARIA?",
+         "username":"AvaAvaRava",
+         "image":"https://i.pinimg.com/140x140_RS/97/7d/1d/977d1d723bc474aa15eb6dc2701c77a5.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/af/e9/07/afe907c95cc10c630088090c026c98de.jpg"
+   },
+   {
+      "title":"The most beautiful images - NARUTO - Hinata",
+      "type":"image",
+      "pinner":{
+         "name":"JKS GAARA",
+         "username":"AlexSilva0017",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/88/6b/6a/886b6acbd265811cfcbac500640b2215.jpg"
+   },
+   {
+      "title":"Semidioses y Dioses reaccionan a Naruto",
+      "type":"image",
+      "pinner":{
+         "name":"Miguel Magdaleno Rosales",
+         "username":"MikeSchweni7",
+         "image":"https://i.pinimg.com/140x140_RS/b8/b1/95/b8b1955cdaac1480e86d4a725dbf5b0e.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/73/ee/a2/73eea20763891dd0f7aca3e3d6767bb9.jpg"
+   },
+   {
+      "title":"Hinata Hyuuga",
+      "type":"image",
+      "pinner":{
+         "name":"João M",
+         "username":"jomarcosfernand",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/df/84/7d/df847df4f3f93e07e629d0d8a8192318.jpg"
+   },
+   {
+      "title":"issei el príncipe del sueño (Finalizada) - harem de issei",
+      "type":"image",
+      "pinner":{
+         "name":"Nayeli Flores",
+         "username":"nayeflores1124",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/0e/05/10/0e05107820676186e416207b84c66d88.jpg"
+   },
+   {
+      "title":"Hinata (The LAST) by MasonENGINE on DeviantArt",
+      "type":"image",
+      "pinner":{
+         "name":"nainaa",
+         "username":"nainaa193",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/02/cb/11/02cb115a85201a2729a142008ee6a252.png"
+   },
+   {
+      "title":"[🍨☀]\n༺♡༻  ʜɪɴᴀᴛᴀ ʜʏᴜɢᴀ 🍨 ɪᴍᴘᴇʀᴀᴛʀɪᴢ 🍓☀",
+      "type":"image",
+      "pinner":{
+         "name":"Mónica Ribeiro",
+         "username":"moonikitas",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/71/7f/08/717f08e61aa373912323203f54c20aa9.jpg"
+   },
+   {
+      "title":"[| 🍓 |]\n✎✐\nHyuga hinata 🌸 top Model\n⌨︎︎",
+      "type":"image",
+      "pinner":{
+         "name":"VIRIYA V",
+         "username":"viriyav",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/f0/6e/0d/f06e0d543a6689c9c5a4b68eab31cc4c.jpg"
+   },
+   {
+      "title":"*sasuhina*Mi verdadera fuerza",
+      "type":"image",
+      "pinner":{
+         "name":"Orena Guillaume",
+         "username":"guillaumeorena03",
+         "image":"https://s.pinimg.com/images/user/default_140.png"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/eb/ea/81/ebea813032b0b74f8666ebd4826102c1.jpg"
+   },
+   {
+      "title":"Hinata Hyuuga - Naruto",
+      "type":"image",
+      "pinner":{
+         "name":"Mónica Soto",
+         "username":"monicasotho",
+         "image":"https://i.pinimg.com/140x140_RS/b6/ff/ad/b6ffad64323f8904717859353811ad75.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/84/33/d6/8433d664ee4fb81fda70a2579065e542.png"
+   },
+   {
+      "title":"# HINATA HYUGA",
+      "type":"image",
+      "pinner":{
+         "name":"Natalia Palomares",
+         "username":"nataliavpalomar",
+         "image":"https://i.pinimg.com/140x140_RS/5a/48/99/5a48992be97e7d7cf76ded9b5d0042d4.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/c8/92/22/c892228f4d7401d225d7b08fd46e0957.jpg"
+   },
+   {
+      "title":"Hinata Hyuga vector by YubiwaNatsumi on DeviantArt",
+      "type":"image",
+      "pinner":{
+         "name":"Alexandra",
+         "username":"Salty_Weeb5",
+         "image":"https://i.pinimg.com/140x140_RS/46/0b/61/460b617e2fb946f5e9ecd02455e16619.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/e8/6c/f1/e86cf14e8caa08ea41136e154d3e792c.jpg"
+   },
+   {
+      "title":"[Hinata Hyuga] fanart/Gacha/Naruto ○°•●•",
+      "type":"image",
+      "pinner":{
+         "name":"✰Miภi๖ۣۜƊiosa✰",
+         "username":"MiniDiosa_",
+         "image":"https://i.pinimg.com/140x140_RS/b4/13/66/b4136638a80c380d7913c9ce191deda7.jpg"
+      },
+      "imageUrl":"https://i.pinimg.com/originals/38/06/3f/38063ff96fbb42ea9894aba8d1210a15.jpg"
+   }
+]
+```
+---
+
 ## /reddit
 ### HTTP Requests
 **Parameter Query:**
